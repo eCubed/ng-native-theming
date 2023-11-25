@@ -1,0 +1,8 @@
+$background-color: var(--background-color);
+
+:host {
+  display: block;
+  border: solid 1px var(--text-color);
+  background-color: var(--input-background);
+  width: 100%;
+}
